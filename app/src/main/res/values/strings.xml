@@ -1,0 +1,49 @@
+<!--
+  ~ Copyright (c) 2025. Levon M.
+  ~ https://github.com/goodluck3301
+  -->
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Giphy</string>
+    <string name="no_giphies_found">There is nothing to display.\nPlease try to refresh.</string>
+    <string name="error_export_clipboard">Failed to copy link to clipboard. Please try again.</string>
+    <string name="clipboard_copied">Image link copied to clipboard</string>
+    <string name="trending">Trending</string>
+    <string name="settings">Settings</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="ok">OK</string>
+    <string name="refresh">Refresh</string>
+    <string name="api_max_description">Items to Load</string>
+    <string name="apimax_desc">The image list consumes a relatively small amount of data. Images are downloaded only when they become visible on the screen.</string>
+    <string name="acknowledgement_sampleapp"></string>
+    <string name="loading">Loading…</string>
+    <string name="content_description_trending_list">Trending List</string>
+    <string name="content_description_search_results">Search Results</string>
+    <string name="content_description_open_in_browser">Open in browser</string>
+    <string name="content_description_copy_image_link">Copy image link</string>
+    <string name="content_description_download_image">Download image</string>
+    <string name="download">Download</string>
+    <string name="downloading_image">Downloading image…</string>
+    <string name="failed_to_download_file">Failed to download file.</string>
+    <string name="there_is_nothing_to_show_try_pull_to_reload">There is nothing to show.\nTry pull to reload?</string>
+    <string name="there_is_nothing_to_show_try_another_search">There is nothing to show.\nTry another search?</string>
+    <string name="rating">Image Rating</string>
+    <string name="version">Version: %1$s</string>
+    <string name="rating_g">Contains images that are broadly accepted as appropriate and commonly witnessed by people in a public environment.</string>
+    <string name="rating_pg">Contains images that are commonly witnessed in a public environment, but not as broadly accepted as appropriate.</string>
+    <string name="rating_pg_13">Contains images that are typically not seen unless sought out, but still commonly witnessed.</string>
+    <string name="rating_r">Contains images that are typically not seen unless sought out and could be considered alarming if witnessed.</string>
+    <string name="content_description_rating_selector">Rating selector</string>
+    <string name="content_description_select_rating">Select %1$s rating</string>
+    <string name="selected" tools:override="true">Selected</string>
+    <string name="not_selected" tools:override="true">Not selected</string>
+    <string name="search">Search</string>
+    <string name="content_description_clear_search_keyword">Clear search keyword</string>
+    <string name="content_description_navigation_bar">Navigation Bar</string>
+    <string name="content_description_navigation_rail">Navigation Rail</string>
+    <string name="content_description_pull_to_refresh">Pull to refresh</string>
+    <string name="content_description_search_bar">Search bar</string>
+    <string name="content_description_slider">slider</string>
+    <string name="image_queued_for_download">Image queued for download</string>
+
+</resources>
