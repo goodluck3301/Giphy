@@ -6,25 +6,8 @@ now also search animated gifs by keyword.
 &nbsp;
 
 <p align="center">
-  <img src="screenshots/240422_animated_screenshot.gif" width="600" /><br/>
-  <img src="screenshots/240422_github_social_preview.png" width="600" />
+  <img src="240422_animated_screenshot.gif" width="600" /><br/>
 </p>
-
-&nbsp;
-
-## Binaries download
-
-If you want to try out the app without building it, check out
-the [Releases section](https://github.com/goodluck3301/giphy-trending/releases) where you can find
-the APK and App Bundles for each major version. A working Giphy API key was applied when building
-the app, therefore you can test it by just installing it.
-
-&nbsp;
-
-## To-do lists
-
-Planned enhancements are
-now [logged as issues](https://github.com/goodluck3301/giphy-trending/issues?q=is%3Aopen+is%3Aissue+label%3Arefactor%2Cfeature%2Cfix%2Ctest).
 
 &nbsp;
 
